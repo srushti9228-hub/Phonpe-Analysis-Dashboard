@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 PhonePe Transaction Intelligence Dashboard
+# 📱 PhonePe Transaction Analysis Dashboard
 
 ### Interactive FinTech Analytics | Microsoft Power BI
 
