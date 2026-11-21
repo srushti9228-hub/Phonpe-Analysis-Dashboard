@@ -23,7 +23,7 @@
 
 ### Page 2 — Payment Analaysis
 
-![Payment Analysis](<Screenshort/ Payment Analysis.png>)
+![Payment Analysis](Screenshort/Payment%20Analysis.png)
 ---
 
 ## 📌 Project Overview
