@@ -17,13 +17,13 @@
 
 ## 📊 Dashboard Preview
 
-### Page 1 — Transaction Overview
+### Page 1 — Transaction 
 
-![PhonePe Dashboard](Screenshort/dashboard.png)
+![PhonePe Dashboard](Screenshort/Transaction.png)
 
-### Page 2 — Service & Payment Analysis
+### Page 2 — Payment Analaysis
 
-![Service and Payment Analysis](<Screenshort/Service & Payment Analysis page.png>)
+![Payment Analysis](<Screenshort/ Payment Analysis.png>)
 ---
 
 ## 📌 Project Overview
